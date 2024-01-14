@@ -36,4 +36,6 @@ $ npx prisma studio
 # goto authjs.dev
 # install dependencies
 $ yarn add @auth/prisma-adapter
+
+# refer the docts here https://authjs.dev/guides/upgrade-to-v5
 ```
