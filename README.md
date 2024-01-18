@@ -28,6 +28,13 @@ $ npx prisma db push
 
 # open prisma studion on browser
 $ npx prisma studio
+
+# before resetting the db, logout current user session
+# reset the db
+$ npx prisma migrate reset
+
+# every reset, run
+$ npx prisma db push
 ```
 
 ### AuthJS
