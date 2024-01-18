@@ -44,5 +44,9 @@ $ npx prisma db push
 # install dependencies
 $ yarn add @auth/prisma-adapter
 
+# for google oauth, goto console.cloud.google.com
+# search for apis and services
+# credentials > create > oauth client id
+
 # refer the docts here https://authjs.dev/guides/upgrade-to-v5
 ```
