@@ -49,4 +49,7 @@ $ yarn add @auth/prisma-adapter
 # credentials > create > oauth client id
 
 # refer the docts here https://authjs.dev/guides/upgrade-to-v5
+
+# use resend.com for sending email validation
+
 ```
