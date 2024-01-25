@@ -6,7 +6,7 @@
 export const publicRoutes = ['/', '/auth/new-verification'];
 
 /**
- * An arra yof routes taht are use for authentication
+ * An array of routes taht are use for authentication
  * These routes will redirect logged in users to /settings
  * @type {string[]}
  */
@@ -15,6 +15,7 @@ export const authRoutes = [
     '/auth/register',
     '/auth/error',
     '/auth/reset',
+    '/auth/new-password',
 ];
 
 /**
